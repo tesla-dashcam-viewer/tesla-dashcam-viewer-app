@@ -1,5 +1,4 @@
-# tesla-dashcam-viewer-app
-Tesla Dashcam Viewer
+# Tesla Dashcam Viewer App
 
 Lightweight browser-based Tesla dashcam viewer I vibe-coded to help myself & other Tesla owners more easily view saved footage.
 

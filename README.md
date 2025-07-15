@@ -1,11 +1,11 @@
 # Tesla Dashcam Viewer App
 
-Lightweight browser-based Tesla dashcam viewer I vibe-coded to help myself & other Tesla owners more easily view saved footage.
+A lightweight, browser-based Tesla dashcam viewer I vibe-coded to help myself and fellow Tesla owners easily browse saved footage.
 
-Features:
-:white_check_mark: Simultaneously view all 6 angles, including the recently added B-pillar video feeds.
-:white_check_mark: Select a entire directory and skip around different segments using built-in timeline.
-:white_check_mark: Supports fast forward, go back, play/pause, or even change viewing speeds (0.5x, 1x, 2x, 5x).
-:white_check_mark: Reads from Tesla-generated event.json file to populate metadata such as time, approx location, and reason for triggering.
-:white_check_mark: Locally run, easy to install, free for everyone to use.
-:white_check_mark: Full quality. Unlike the mobile app downloads, this one relies on original full-quality files from your USB.
+Features
+✅ View all 6 camera angles simultaneously — including the newly added B-pillar feeds.
+✅ Select an entire folder and quickly jump between clips using the built-in timeline.
+✅ Playback controls: fast forward, rewind, play/pause, and change speeds (0.5×, 1×, 2×, 5×).
+✅ Parses Tesla's event.json to display metadata like timestamp, approximate location, and event reason.
+✅ Runs locally, easy to install, and 100% free to use.
+✅ Full-quality video — uses original high-res USB files, unlike compressed versions from the Tesla app.

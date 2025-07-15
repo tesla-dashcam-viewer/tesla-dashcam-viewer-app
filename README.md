@@ -20,8 +20,10 @@ A lightweight, browser-based Tesla dashcam viewer I vibe-coded to help myself an
 ✅ **Full-quality video** — uses original high-res USB files, unlike compressed versions from the Tesla app.
 
 Demo 1:
+
 https://github.com/user-attachments/assets/3fd2ed2a-ba1c-4cde-9cec-47819d7fa11c
 
 Demo 2:
+
 https://github.com/user-attachments/assets/ac5d0ad8-9c86-4cd2-80e5-c39155c5637f
 

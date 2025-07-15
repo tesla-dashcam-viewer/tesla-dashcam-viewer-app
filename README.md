@@ -2,6 +2,9 @@
 
 A lightweight, browser-based Tesla dashcam viewer I vibe-coded to help myself and fellow Tesla owners easily browse saved footage.
 
+<img width="1792" height="1120" alt="Preview" src="https://github.com/user-attachments/assets/d50debb5-c587-41dd-8a4a-9a8f48c90d09" />
+
+
 ## Features
 
 ✅ View all **6 camera angles** simultaneously — including the newly added **B-pillar** feeds.
@@ -15,3 +18,10 @@ A lightweight, browser-based Tesla dashcam viewer I vibe-coded to help myself an
 ✅ **Runs locally**, easy to install, and 100% free to use.
 
 ✅ **Full-quality video** — uses original high-res USB files, unlike compressed versions from the Tesla app.
+
+Demo 1:
+https://github.com/user-attachments/assets/3fd2ed2a-ba1c-4cde-9cec-47819d7fa11c
+
+Demo 2:
+https://github.com/user-attachments/assets/ac5d0ad8-9c86-4cd2-80e5-c39155c5637f
+

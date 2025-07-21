@@ -21,10 +21,11 @@ A lightweight, browser-based Tesla dashcam viewer I vibe-coded to help myself an
 
 ## Setup
 
-1. Download `tesla-dashcam-app`
+1. Download `tesla-dashcam-app` (this repo)
 2. Navigate to directory: `cd tesla-dashcam-app/`
 3. Install dependencies: `npm install`
 4. Start app: `npm run dev`
+5. Open browser and navigate to `http://localhost:5173/`
 
 
 
